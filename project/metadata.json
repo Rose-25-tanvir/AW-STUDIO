@@ -1,0 +1,5 @@
+{
+  "name": "AW STUDIO viewer V0.1.2",
+  "description": "A real-time XML UI editor and previewer supporting LinearLayout, nested layouts, and basic Android-style attributes.",
+  "requestFramePermissions": []
+}
